@@ -5,73 +5,18 @@ weight = 3
 <!-- Start vertical slides -->
 {{% section %}}
 
-# 🔥 Convert PyTorch to Ignite ❤️‍🔥
+# Quick-start PyTorch-Ignite example 👩‍💻👨‍💻
 
-How to translate pure PyTorch code to PyTorch+Ignite
+Let's train a MNIST classifier with PyTorch-Ignite!
 
----
+{{< add_vspace >}}
 
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/1.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/2.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/3.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/4.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/5.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/6.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/7.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/8.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/9.png"/>
-
----
-
-### Native PyTorch → PyTorch + Ignite
-
-<img height="540" src="images/10.png"/>
+https://pytorch-ignite.ai/tutorials/beginner/01-getting-started/
 
 ---
 
 Any questions before we go on ?
+
 
 <!-- End vertical slides -->
 {{% /section %}}
