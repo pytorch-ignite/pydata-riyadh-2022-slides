@@ -18,7 +18,7 @@ Priyansi & Victor &  Taras
 {{< add_vspace >}}
 {{< add_vspace >}}
 
-Slides: https://vfdev-5.github.io/pybucaramanga-pytorch-ignite-slides/
+Slides: 
 
 ---
 

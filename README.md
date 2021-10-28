@@ -1,6 +1,6 @@
-# Python Bucaramanga 2021/10/09 - PyTorch-Ignite slides
+# PyData Global 2021/10/29 - PyTorch-Ignite slides
 
-[Link to slides](https://vfdev-5.github.io/pybucaramanga-pytorch-ignite-slides)
+[Link to slides]()
 
 ## License
 
@@ -11,7 +11,7 @@ This repo is under the [MIT License](LICENSE).
 
 0. Clone the repository with `--recursive` option:
 ```bash
-git clone --recursive https://github.com/vfdev-5/pybucaramanga-pytorch-ignite-slides
+git clone --recursive https://github.com/pytorch-ignite/pydata-global2021-slides.git 
 # or
 # git submodule --init --recursive update
 ```
