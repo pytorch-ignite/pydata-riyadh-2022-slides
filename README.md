@@ -1,6 +1,6 @@
-# PyData Global Mentored Sprint 2021/10/29 - PyTorch-Ignite slides
+# PyData Riyadh Mentored Sprint 2022/01/14 - PyTorch-Ignite slides
 
-[Link to slides](https://pytorch-ignite.github.io/pydata-global2021-slides/)
+[Link to slides](https://pytorch-ignite.github.io/pydata-riyadh-2022-slides/)
 
 ## License
 
